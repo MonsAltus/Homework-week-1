@@ -2,7 +2,7 @@
 ## Code Refactoring
 
 ### Description:
-This website is a landing page for the company Horiseon.<br>
+This website is a landing page for the company Horiseon Social Solution Services, Inc.<br>
 The codebase has been refactored with search engine optimization and accessibility in mind.
 
 ### Links:
