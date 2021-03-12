@@ -18,9 +18,9 @@ The codebase has been refactored with search engine optimization and accessibili
 - Added blank alt properties to images in benefits class, as they only provide aesthetic value.
 #### style.css:
 - Made various selectors universal after removing unnecessary classes.
-- Consolidated css classes `.benefit-lead`, `.benefit-brand`, and `.benefit-cost` under `.aside-subsection`.
+- Consolidated css classes `.benefit-lead`, `.benefit-brand`, and `.benefit-cost` under `aside section`.
 - Consolidated css classes `.benefit-lead img`, `.benefit-brand img`, and `.benefit-cost img` under `aside img`.
 - Consolidated css classes `.benefit-lead h3`, `.benefit-brand h3`, and `.benefit-cost h3` under `aside h3`.
-- Consolidated css classes `.search-engine-optimization`, `.online-reputation-management`, and `.social-media-marketing` under `.main-subsection`.
+- Consolidated css classes `.search-engine-optimization`, `.online-reputation-management`, and `.social-media-marketing` under `main section`.
 - Consolidated css classes `.search-engine-optimization img`, `.online-reputation-management img`, and `.social-media-marketing img` under `main img`.
 - Consolidated css classes `.search-engine-optimization h2`, `.online-reputation-management h2`, and `.social-media-marketing h2` under `main h2`.
