@@ -14,8 +14,8 @@ The codebase has been refactored with search engine optimization and accessibili
 - Added website title.
 - Added ID for search-engine-optimization to fix link.
 - Improved semantic structure of html by removing various classes and replacing `<div>` with more appropriate elements.
-- Added descriptive alt properties to images in content class, as they provide context to the written content.
-- Added blank alt properties to images in benefits class, as they only provide aesthetic value.
+- Added descriptive alt properties to images in `main` element, as they provide context to the written content.
+- Added blank alt properties to images in `aside` element, as they only provide aesthetic value.
 #### style.css:
 - Made various selectors universal after removing unnecessary classes.
 - Consolidated css classes `.benefit-lead`, `.benefit-brand`, and `.benefit-cost` under `aside section`.
